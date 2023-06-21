@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1033869789541",
+    "project_id": "kamyonetkurye-1d768",
+    "storage_bucket": "kamyonetkurye-1d768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033869789541:android:5eee11edc9ab3e44fc398c",
+        "android_client_info": {
+          "package_name": "com.example.kamyonetkurye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033869789541-icpbd9o23tfcfee3cu1jjv0bij601ug1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjG1z8I3EyoPS_SMwE2Mkt0OoDZlF9_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033869789541-icpbd9o23tfcfee3cu1jjv0bij601ug1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033869789541-okkt75m42rufhu1npl3lqg9f970kpvui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kamyonetkurye"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
